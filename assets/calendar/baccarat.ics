@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nayha and Saad//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:baccarat-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART:20261114T210000Z
+DTEND:20261115T020000Z
+SUMMARY:Baccarat Party · Nayha & Saad
+LOCATION:Baccarat Residences · 20 West 53rd Street\, Apt 18A · New York\,
+  NY 10019
+DESCRIPTION:An evening of champagne\, crystal and candlelight to begin our 
+ wedding celebrations.\n4:00 pm\nAttire: Black Tie Glamour
+END:VEVENT
+END:VCALENDAR

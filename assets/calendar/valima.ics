@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nayha and Saad//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:valima-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Valima · Nayha & Saad
+LOCATION:Leonard’s Palazzo · 555 Northern Boulevard · Great Neck\, NY 1
+ 1021
+DESCRIPTION:An evening of love and gratitude to close our celebrations.\nAt
+ tire: Pakistani Formal
+END:VEVENT
+END:VCALENDAR

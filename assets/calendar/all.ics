@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nayha and Saad//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:baccarat-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART:20261114T210000Z
+DTEND:20261115T020000Z
+SUMMARY:Baccarat Party · Nayha & Saad
+LOCATION:Baccarat Residences · 20 West 53rd Street\, Apt 18A · New York\,
+  NY 10019
+DESCRIPTION:An evening of champagne\, crystal and candlelight to begin our 
+ wedding celebrations.\n4:00 pm\nAttire: Black Tie Glamour
+END:VEVENT
+BEGIN:VEVENT
+UID:mehndi-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART:20261121T200000Z
+DTEND:20261122T030000Z
+SUMMARY:Nikah & Mehndi · Nayha & Saad
+LOCATION:Syed Residence · Old Westbury · 136 I.U. Willets Road · Old Wes
+ tbury\, NY 11568
+DESCRIPTION:Join us for our Nikah\, followed by a joyful Mehndi filled with
+  color\, music and the people we love.\nNikah 3:00 pm · Mehndi 4:00 pm\nA
+ ttire: Pakistani Formal
+END:VEVENT
+BEGIN:VEVENT
+UID:reception-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART:20261122T210000Z
+DTEND:20261123T030000Z
+SUMMARY:Reception · Nayha & Saad
+LOCATION:Syed Residence · Old Westbury · 136 I.U. Willets Road · Old Wes
+ tbury\, NY 11568
+DESCRIPTION:An evening together to celebrate our marriage and the beginning
+  of a beautiful new chapter.\nCocktails & reception 4:00 pm\nAttire: Black
+  Tie
+END:VEVENT
+BEGIN:VEVENT
+UID:valima-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Valima · Nayha & Saad
+LOCATION:Leonard’s Palazzo · 555 Northern Boulevard · Great Neck\, NY 1
+ 1021
+DESCRIPTION:An evening of love and gratitude to close our celebrations.\nAt
+ tire: Pakistani Formal
+END:VEVENT
+END:VCALENDAR

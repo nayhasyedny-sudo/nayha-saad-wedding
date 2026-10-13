@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nayha and Saad//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reception-2026@nayha-saad-invitation
+DTSTAMP:20261013T221608Z
+DTSTART:20261122T210000Z
+DTEND:20261123T030000Z
+SUMMARY:Reception · Nayha & Saad
+LOCATION:Syed Residence · Old Westbury · 136 I.U. Willets Road · Old Wes
+ tbury\, NY 11568
+DESCRIPTION:An evening together to celebrate our marriage and the beginning
+  of a beautiful new chapter.\nCocktails & reception 4:00 pm\nAttire: Black
+  Tie
+END:VEVENT
+END:VCALENDAR
